@@ -1,12 +1,8 @@
-Requirements.txt
-dash==2.14.2
+dash==2.9.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
-flask==2.2.5
-importlib-metadata==7.0.1
-plotly==5.19.0
-pandas==2.2.1
-sklearn==2.2.0
-numpy==1.24.3
-pickle==0.7.5
+flask==2.2.3
+importlib-metadata==6.1.0
+plotly==5.13.1
+gunicorn
