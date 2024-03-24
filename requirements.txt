@@ -8,5 +8,4 @@ plotly==5.13.1
 werkzeug==2.2.2
 pandas==2.2.1
 numpy==1.23.3
-pickle==0.6.5
 gunicorn
